@@ -1,0 +1,249 @@
+time: 2023-06-14 15:42:52.868581 | m_position: 1359 735
+time: 2023-06-14 15:42:54.137869 | m_position: 1359 735
+time: 2023-06-14 15:42:55.337370 | m_position: 1359 735
+time: 2023-06-14 15:42:56.543060 | m_position: 1150 1039
+time: 2023-06-14 15:42:57.764829 | m_position: 1106 1045
+time: 2023-06-14 15:42:59.028329 | m_position: 1386 4
+time: 2023-06-14 15:43:00.271471 | m_position: 1538 14
+time: 2023-06-14 15:43:01.574825 | m_position: 1188 47
+time: 2023-06-14 15:43:02.610716 | m_position: 1188 47
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="새 탭 - Chrome"> | key: 't'
+time: 2023-06-14 15:43:02.717320 | m_position: 1188 47
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="새 탭 - Chrome"> | key: 'e'
+time: 2023-06-14 15:43:02.905665 | m_position: 1188 47
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="새 탭 - Chrome"> | key: 's'
+time: 2023-06-14 15:43:03.039225 | m_position: 1188 47
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="새 탭 - Chrome"> | key: 't'
+time: 2023-06-14 15:43:03.222062 | m_position: 1188 47
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="새 탭 - Chrome"> | key: Key.space
+time: 2023-06-14 15:43:03.600062 | m_position: 1188 47
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="새 탭 - Chrome"> | key: 'w'
+time: 2023-06-14 15:43:03.708006 | m_position: 1188 47
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="새 탭 - Chrome"> | key: 'o'
+time: 2023-06-14 15:43:03.798781 | m_position: 1188 47
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="새 탭 - Chrome"> | key: 'w'
+time: 2023-06-14 15:43:02.779050 | m_position: 1188 47
+time: 2023-06-14 15:43:04.951124 | m_position: 1828 28
+time: 2023-06-14 15:43:07.112197 | m_position: 1817 631
+time: 2023-06-14 15:43:08.494581 | m_position: 1829 651
+time: 2023-06-14 15:43:09.870393 | m_position: 1042 631
+time: 2023-06-14 15:43:11.333710 | m_position: 99 112
+time: 2023-06-14 15:43:12.560149 | m_position: 218 204
+time: 2023-06-14 15:43:13.805760 | m_position: 597 977
+time: 2023-06-14 15:43:14.357530 | m_position: 597 977
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="infostealer.py - fst_assignment - Visual Studio Code"> | key: Key.ctrl_l
+time: 2023-06-14 15:43:14.697977 | m_position: 597 977
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="infostealer.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:00.769444 | m_position: 1361 751
+time: 2023-06-14 15:57:01.964018 | m_position: 953 648
+time: 2023-06-14 15:57:03.158819 | m_position: 1088 1049
+time: 2023-06-14 15:57:04.419101 | m_position: 1085 1049
+time: 2023-06-14 15:57:05.601434 | m_position: 1032 70
+time: 2023-06-14 15:57:06.834854 | m_position: 1032 70
+time: 2023-06-14 15:57:07.024179 | m_position: 1032 70
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="How to stop a command in the Visual Studio Code terminal - Stack Overflow - Chrome"> | key: 's'
+time: 2023-06-14 15:57:07.177908 | m_position: 1032 70
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="How to stop a command in the Visual Studio Code terminal - Stack Overflow - Chrome"> | key: 't'
+time: 2023-06-14 15:57:07.284530 | m_position: 1032 70
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="How to stop a command in the Visual Studio Code terminal - Stack Overflow - Chrome"> | key: 'a'
+time: 2023-06-14 15:57:07.498847 | m_position: 1032 70
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="How to stop a command in the Visual Studio Code terminal - Stack Overflow - Chrome"> | key: 'c'
+time: 2023-06-14 15:57:07.594965 | m_position: 1032 70
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="How to stop a command in the Visual Studio Code terminal - Stack Overflow - Chrome"> | key: 'k'
+time: 2023-06-14 15:57:08.039240 | m_position: 1032 70
+time: 2023-06-14 15:57:08.295721 | m_position: 1032 70
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="How to stop a command in the Visual Studio Code terminal - Stack Overflow - Chrome"> | key: 'o'
+time: 2023-06-14 15:57:08.414001 | m_position: 1032 70
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="How to stop a command in the Visual Studio Code terminal - Stack Overflow - Chrome"> | key: 'v'
+time: 2023-06-14 15:57:08.640773 | m_position: 1032 70
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="How to stop a command in the Visual Studio Code terminal - Stack Overflow - Chrome"> | key: 'e'
+time: 2023-06-14 15:57:08.720240 | m_position: 1032 70
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="How to stop a command in the Visual Studio Code terminal - Stack Overflow - Chrome"> | key: 'r'
+time: 2023-06-14 15:57:08.955118 | m_position: 1032 70
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="How to stop a command in the Visual Studio Code terminal - Stack Overflow - Chrome"> | key: 'f'
+time: 2023-06-14 15:57:09.049701 | m_position: 1032 70
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="How to stop a command in the Visual Studio Code terminal - Stack Overflow - Chrome"> | key: 'l'
+time: 2023-06-14 15:57:09.215058 | m_position: 1032 70
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="How to stop a command in the Visual Studio Code terminal - Stack Overflow - Chrome"> | key: 'o'
+time: 2023-06-14 15:57:09.315290 | m_position: 1032 70
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="How to stop a command in the Visual Studio Code terminal - Stack Overflow - Chrome"> | key: 'w'
+time: 2023-06-14 15:57:09.262187 | m_position: 1032 70
+time: 2023-06-14 15:57:10.636797 | m_position: 1612 324
+time: 2023-06-14 15:57:11.995315 | m_position: 1778 24
+time: 2023-06-14 15:57:14.067000 | m_position: 913 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: Key.ctrl_l
+time: 2023-06-14 15:57:13.760427 | m_position: 913 709
+time: 2023-06-14 15:57:14.462597 | m_position: 913 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:14.664413 | m_position: 913 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:14.840353 | m_position: 913 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:15.098986 | m_position: 913 709
+time: 2023-06-14 15:57:16.709048 | m_position: 912 709
+time: 2023-06-14 15:57:16.409334 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: Key.ctrl_l
+time: 2023-06-14 15:57:16.940548 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:17.104352 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:17.268931 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:17.420761 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:17.579197 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:17.792919 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:17.905015 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:17.738214 | m_position: 912 709
+time: 2023-06-14 15:57:18.075172 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:18.239544 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:18.410581 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:18.564819 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:18.725558 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:18.895571 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:19.066026 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:18.967891 | m_position: 912 709
+time: 2023-06-14 15:57:19.242182 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:19.397398 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:19.572143 | m_position: 912 709
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 15:57:20.197785 | m_position: 1740 664
+time: 2023-06-14 15:57:21.416173 | m_position: 1555 703
+time: 2023-06-14 15:57:22.170571 | m_position: 1173 829
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: Key.ctrl_l
+time: 2023-06-14 15:57:22.496183 | m_position: 1173 829
+	active_win: <Win32Window left="-9", top="-9", width="1938", height="1038", title="server.py - fst_assignment - Visual Studio Code"> | key: '\x03'
+time: 2023-06-14 16:38:45.137609 | m_position: 1342 772
+time: 2023-06-14 16:38:46.258153 | m_position: 1083 1068
+time: 2023-06-14 16:38:47.365389 | m_position: 876 376
+time: 2023-06-14 16:38:48.511848 | m_position: 756 70
+time: 2023-06-14 16:38:49.647497 | m_position: 756 70
+time: 2023-06-14 16:38:50.780893 | m_position: 756 70
+time: 2023-06-14 16:38:51.928481 | m_position: 1773 11
+time: 2023-06-14 16:38:53.074362 | m_position: 1116 647
+time: 2023-06-14 16:38:54.208813 | m_position: 1104 925
+time: 2023-06-14 16:38:55.346383 | m_position: 1035 924
+time: 2023-06-14 16:38:56.476426 | m_position: 1139 937
+time: 2023-06-14 16:38:57.599757 | m_position: 1792 647
+time: 2023-06-14 16:38:58.724611 | m_position: 1173 904
+time: 2023-06-14 16:47:00.629944 | m_position: 1401 781
+time: 2023-06-14 16:47:01.780988 | m_position: 1105 1066
+time: 2023-06-14 16:47:02.902769 | m_position: 1048 1047
+time: 2023-06-14 16:47:04.052486 | m_position: 653 62
+time: 2023-06-14 16:47:05.166166 | m_position: 0 68
+time: 2023-06-14 16:47:05.379307 | m_position: 0 68
+	active_win: [pyautogui] 프로그램 창 다루기 - Chrome | key: ctrl_l
+time: 2023-06-14 16:47:05.614143 | m_position: 0 68
+	active_win: [pyautogui] 프로그램 창 다루기 - Chrome | key: 
+time: 2023-06-14 16:47:06.280570 | m_position: 0 68
+time: 2023-06-14 16:47:06.457873 | m_position: 0 68
+	active_win: [pyautogui] 프로그램 창 다루기 - Chrome | key: ctrl_l
+time: 2023-06-14 16:47:06.730652 | m_position: 0 68
+	active_win: [pyautogui] 프로그램 창 다루기 - Chrome | key: 
+time: 2023-06-14 16:47:07.398419 | m_position: 0 68
+time: 2023-06-14 16:47:08.514185 | m_position: 675 287
+time: 2023-06-14 16:47:09.710233 | m_position: 1602 19
+time: 2023-06-14 16:47:10.924734 | m_position: 1490 55
+time: 2023-06-14 16:47:12.073346 | m_position: 1490 55
+	active_win: 새 탭 - Chrome | key: w
+time: 2023-06-14 16:47:12.164634 | m_position: 1490 55
+	active_win: 새 탭 - Chrome | key: o
+time: 2023-06-14 16:47:12.244597 | m_position: 1490 55
+	active_win: 새 탭 - Chrome | key: w
+time: 2023-06-14 16:47:12.659014 | m_position: 1490 55
+	active_win: 새 탭 - Chrome | key: space
+time: 2023-06-14 16:47:12.819143 | m_position: 1490 55
+	active_win: 새 탭 - Chrome | key: w
+time: 2023-06-14 16:47:12.926521 | m_position: 1490 55
+	active_win: 새 탭 - Chrome | key: o
+time: 2023-06-14 16:47:12.958657 | m_position: 1490 55
+	active_win: 새 탭 - Chrome | key: w
+time: 2023-06-14 16:47:12.713497 | m_position: 1490 55
+time: 2023-06-14 16:47:13.348659 | m_position: 1490 55
+	active_win: 새 탭 - Chrome | key: space
+time: 2023-06-14 16:58:48.164331 | m_position: 729 460
+time: 2023-06-14 16:58:49.286993 | m_position: 706 871
+time: 2023-06-14 16:58:50.393509 | m_position: 1042 1049
+time: 2023-06-14 16:58:51.512887 | m_position: 841 8
+time: 2023-06-14 16:58:52.642282 | m_position: 851 72
+time: 2023-06-14 16:58:53.548352 | m_position: 3 124
+	active_win: HTTP response status codes - HTTP | MDN - Chrome | key: ctrl_l
+time: 2023-06-14 16:58:53.808583 | m_position: 3 124
+	active_win: HTTP response status codes - HTTP | MDN - Chrome | key: 
+time: 2023-06-14 16:58:53.782305 | m_position: 3 124
+time: 2023-06-14 16:58:54.120026 | m_position: 3 124
+	active_win: HTTP response status codes - HTTP | MDN - Chrome | key: ctrl_l
+time: 2023-06-14 16:58:54.297080 | m_position: 3 124
+	active_win: HTTP response status codes - HTTP | MDN - Chrome | key: 
+time: 2023-06-14 16:58:54.906495 | m_position: 546 133
+time: 2023-06-14 16:58:56.036784 | m_position: 1608 17
+time: 2023-06-14 16:58:57.032459 | m_position: 1606 17
+	active_win: 새 탭 - Chrome | key: w
+time: 2023-06-14 16:58:57.200694 | m_position: 1606 17
+	active_win: 새 탭 - Chrome | key: o
+time: 2023-06-14 16:58:57.299045 | m_position: 1606 17
+	active_win: 새 탭 - Chrome | key: w
+time: 2023-06-14 16:58:57.783588 | m_position: 1606 17
+	active_win: 새 탭 - Chrome | key: backspace
+time: 2023-06-14 16:58:57.265118 | m_position: 1606 17
+time: 2023-06-14 16:58:57.935152 | m_position: 1606 17
+	active_win: 새 탭 - Chrome | key: backspace
+time: 2023-06-14 16:58:58.102915 | m_position: 1606 17
+	active_win: 새 탭 - Chrome | key: backspace
+time: 2023-06-14 16:58:58.877542 | m_position: 1833 2
+time: 2023-06-14 16:59:00.651925 | m_position: 521 117
+time: 2023-06-14 16:59:01.862508 | m_position: 266 102
+time: 2023-06-14 20:29:31.842954 | m_position: 1643  907
+time: 2023-06-14 20:29:33.177661 | m_position: 1270 1059
+time: 2023-06-14 20:29:34.463978 | m_position:  996 1073
+time: 2023-06-14 20:29:35.713819 | m_position: 1023 1034
+time: 2023-06-14 20:29:36.990973 | m_position: 1535  253
+time: 2023-06-14 20:29:38.330203 | m_position: 1411  298
+time: 2023-06-14 20:29:38.891795 | m_position: 1411  298
+	active_win: 새 탭 - Chrome | key: i
+time: 2023-06-14 20:29:39.051746 | m_position: 1411  298
+	active_win: 새 탭 - Chrome | key: space
+time: 2023-06-14 20:29:39.219627 | m_position: 1411  298
+	active_win: 새 탭 - Chrome | key: a
+time: 2023-06-14 20:29:39.325615 | m_position: 1411  298
+	active_win: 새 탭 - Chrome | key: m
+time: 2023-06-14 20:29:39.404224 | m_position: 1411  298
+	active_win: 새 탭 - Chrome | key: space
+time: 2023-06-14 20:29:39.695627 | m_position: 1411  298
+	active_win: 새 탭 - Chrome | key: a
+time: 2023-06-14 20:29:39.859907 | m_position: 1411  298
+	active_win: 새 탭 - Chrome | key: space
+time: 2023-06-14 20:29:40.178544 | m_position: 1411  298
+	active_win: 새 탭 - Chrome | key: h
+time: 2023-06-14 20:29:40.221898 | m_position: 1411  298
+	active_win: 새 탭 - Chrome | key: a
+time: 2023-06-14 20:29:40.390272 | m_position: 1411  298
+	active_win: 새 탭 - Chrome | key: c
+time: 2023-06-14 20:29:40.501226 | m_position: 1411  298
+	active_win: 새 탭 - Chrome | key: k
+time: 2023-06-14 20:29:39.815564 | m_position: 1411  298
+time: 2023-06-14 20:29:40.579882 | m_position: 1411  298
+	active_win: 새 탭 - Chrome | key: e
+time: 2023-06-14 20:29:40.633383 | m_position: 1411  298
+	active_win: 새 탭 - Chrome | key: r
+time: 2023-06-14 20:29:40.951568 | m_position: 1411  298
+	active_win: 새 탭 - Chrome | key: space
+time: 2023-06-14 20:29:41.632573 | m_position: 1411  298
+time: 2023-06-14 20:29:43.401763 | m_position:  798  261
+time: 2023-06-14 20:29:44.785632 | m_position: 1420 1061
+time: 2023-06-14 20:29:46.306721 | m_position:  941  664
+time: 2023-06-14 20:29:47.621034 | m_position:  956  650
+	active_win: 명령 프롬프트 - python  server.py | key: ctrl_l
+time: 2023-06-14 20:29:47.668309 | m_position:  956  650
